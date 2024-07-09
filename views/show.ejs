@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Note App - <%= fileName %></title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f3f4f6; /* Light gray background */
+            color: #333;
+            line-height: 1.6;
+            min-height: 100vh; /* Full viewport height */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            width: 100%;
+            max-width: 800px;
+            padding: 20px;
+            background-color: #fff; /* White background */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2rem;
+            color: #555;
+            margin-bottom: 20px;
+        }
+        a {
+            display: inline-block;
+            color: #3182ce;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: #2c5282;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-8">
+        <h1 class="text-3xl font-semibold"><%= fileName %></h1>
+        <p class="text-lg text-gray-700"><%= data %></p>
+        <a href="/" class="mt-4 inline-block text-indigo-600 hover:text-indigo-800">Go Back</a>
+    </div>
+</body>
+</html>

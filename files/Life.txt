@@ -1,0 +1,27 @@
+Life is a quality that distinguishes matter that has biological processes, such as signaling and self-sustaining processes, from matter that does not. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Viruses in particular make definition difficult as they replicate only in host cells. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles.
+
+Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species that exist now, by way of many extinct species, some of which have left traces as fossils. Attempts to classify living things, too, began with Aristotle. Modern classification began with Carl Linnaeus's system of binomial nomenclature in the 1740s.
+
+Living things are composed of biochemical molecules, formed mainly from a few core chemical elements. All living things contain two types of large molecule, proteins and nucleic acids, the latter usually both DNA and RNA: these carry the information needed by each species, including the instructions to make each type of protein. The proteins, in turn, serve as the machinery which carries out the many chemical processes of life. The cell is the structural and functional unit of life. Smaller organisms, including prokaryotes (bacteria and archaea), consist of small single cells. Larger organisms, mainly eukaryotes, can consist of single cells or may be multicellular with more complex structure. Life is only known to exist on Earth but extraterrestrial life is thought probable. Artificial life is being simulated and explored by scientists and engineers.
+
+Definitions
+Challenge
+
+The definition of life has long been a challenge for scientists and philosophers.[2][3][4] This is partially because life is a process, not a substance.[5][6][7] This is complicated by a lack of knowledge of the characteristics of living entities, if any, that may have developed outside Earth.[8][9] Philosophical definitions of life have also been put forward, with similar difficulties on how to distinguish living things from the non-living.[10] Legal definitions of life have been debated, though these generally focus on the decision to declare a human dead, and the legal ramifications of this decision.[11] At least 123 definitions of life have been compiled.[12]
+Descriptive
+Further information: Organism
+
+Since there is no consensus for a definition of life, most current definitions in biology are descriptive. Life is considered a characteristic of something that preserves, furthers or reinforces its existence in the given environment. This implies all or most of the following traits:[4][13][14][15][16][17]
+
+    Homeostasis: regulation of the internal environment to maintain a constant state; for example, sweating to reduce temperature.
+    Organisation: being structurally composed of one or more cells – the basic units of life.
+    Metabolism: transformation of energy, used to convert chemicals into cellular components (anabolism) and to decompose organic matter (catabolism). Living things require energy for homeostasis and other activities.
+    Growth: maintenance of a higher rate of anabolism than catabolism. A growing organism increases in size and structure.
+    Adaptation: the evolutionary process whereby an organism becomes better able to live in its habitat.[18][19][20]
+    Response to stimuli: such as the contraction of a unicellular organism away from external chemicals, the complex reactions involving all the senses of multicellular organisms, or the motion of the leaves of a plant turning toward the sun (phototropism), and chemotaxis.
+    Reproduction: the ability to produce new individual organisms, either asexually from a single parent organism or sexually from two parent organisms.
+
+Physics
+Further information: Entropy and life
+
+From a physics perspective, an organism is a thermodynamic system with an organised molecular structure that can reproduce itself and evolve as survival dictates.[21][22] Thermodynamically, life has been described as an open system which makes use of gradients in its surroundings to create imperfect copies of itself.[23] Another way of putting this is to define life as "a self-sustained chemical system capable of undergoing
