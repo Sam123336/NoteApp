@@ -37,7 +37,7 @@
 
 <h2>Usage</h2>
 <ol>
-  <li>Open your browser and navigate to <code>http://localhost:3000</code></li>
+  <li>Open your browser and navigate to <code>http://localhost:8000</code></li>
   <li>Use the interface to create, view, edit, and delete notes</li>
 </ol>
 
