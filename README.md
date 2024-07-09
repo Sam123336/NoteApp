@@ -3,7 +3,7 @@
 <p>Welcome to the Note App project! This project is a simple note-taking application that uses the <code>fs</code> module in Node.js for data storage instead of a database like MongoDB.</p>
 
 <h2>Live Demo</h2>
-<p>Check out the live demo of the project: <a href="https://noteapp-pnzu.onrender.com/">https://noteapp-pnzu.onrender.com/</a></p>
+<p>Check out the live demo of the project: <a href="https://noteapp-pnzu.onrender.com/">https://noteapp-pnzu.onrender.com/</a> open in Desktop site</p>
 
 <h2>Screenshots</h2>
 
