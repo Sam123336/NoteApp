@@ -32,7 +32,7 @@
   <li>Install dependencies</li>
   <pre><code>npm install</code></pre>
   <li>Start the server</li>
-  <pre><code>node index.jst</code></pre>
+  <pre><code>node index.js</code></pre>
 </ol>
 
 <h2>Usage</h2>
